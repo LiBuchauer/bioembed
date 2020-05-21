@@ -1,7 +1,7 @@
 ## bioembed: embedding biologial data into bio-inspired space
 ### 1) Spatial division of labor along villi of the small intestine
 
-![Spatial labor division along villi of the small intestine](villi/spatial_labor_div_intestine.pdf)
+![Spatial labor division along villi of the small intestine](villi/spatial_labor_div_intestine.png)
 
 The small intestine is the main site of nutrient absorption in mammals. The intestinal epithelium is composed of finger-like protrusions, so-called villi, whose purpose is to increase the surface area available for nutrient uptake. Based on single-cell RNA sequencing data of mouse enterocytes (the absorptive cell type constituting the majority of the intestinal epithelium), a recent study showed that tasks such as lipid absorption and defense against microorganisms are not distributed evenly along these villi. Instead, the expression of more than 80\% of genes are zonated at the mRNA level and enterocytes assume specialized tasks according to their position on the villus axis [1].
 
